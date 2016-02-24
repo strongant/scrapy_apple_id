@@ -3,4 +3,5 @@
 *.txt
 *.html
 logs
-.idea/*
+*.pyc
+*.idea
